@@ -32,12 +32,15 @@ Thanks for installing!
 
 = Does this plugin work on Thesis? =
 
-Yes this plugin has been tested on Thesis as I use thesis myself.
+Yes this plugin has been tested on Thesis 1.8.4 as I use Thesis myself.
 
 = Does this plugin work on versions prior to 3.0 =
 
 I have not tested on version below 3.0 as you should be updating wordpress periodically for security reasons and to gain the extra functionality that comes with updates.
 
+= Does this plugin work on every theme? =
+
+That is a difficult one to say for sure, the only way for me to know if through feedback as I don't own all themes. But if it works on Thesis and several generic themes then it should be ok.
 
 == Screenshots ==
 
