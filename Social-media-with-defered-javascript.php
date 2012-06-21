@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: Social media with defered Javascript
-Plugin URI: http://diywpblog.com
+Plugin Name: Social Media with Defered Javascript
+Plugin URI: http://wordpress.org/extend/plugins/social-media-with-defered-javascript/
 Description: Adds social media below your wordpress posts with defered Javascript for improved performance. Includes Twitter, Facebook like, google plus and Digg. This plugin adds the javascript to the bottom of the page and combined in to a single script. Styling included within the code so no extra CSS. The plugin is designed to be light and minimal and yet provide you with the same results as other social media plugins.
-Version: 1.0
+Version: 1.0.0.0
 Author: Matthew Horne
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8K3Z6N6KXPJYU
-Author URI: http://diywpblog.com/about/
+Author URI: http://diywpblog.com
 License: GPLv2 or later
 */
 
@@ -26,7 +26,7 @@ License: GPLv2 or later
     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-define('SOCIAL_MEDIA_WITH_DEFERED_JAVASCRIPT', '1.0');
+define('SOCIAL_MEDIA_WITH_DEFERED_JAVASCRIPT', '1.0.0.0');
 define('SOCIAL_MEDIA_WITH_DEFERED_JAVASCRIPT_URL', plugin_dir_url( __FILE__ ));
 
 function social_media($content) {

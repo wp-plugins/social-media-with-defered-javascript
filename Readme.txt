@@ -1,19 +1,22 @@
 === Social Media with defered Javascript ===
 Contributors: Horne3754sg
 Tags: post, posts, social media, network, share, facebook like, twitter, tweet, social, google, google +1, google plusone
-Requires at least: version 3
+Requires at least: 3.0
 Tested up to: 3.4
 Stable tag: 3.4,
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8K3Z6N6KXPJYU
 License: GPLv2 or later
 
-Adds Facebook Like, Twitter button, Google +1 and Digg button below posts.
+Adds Facebook Like, Twitter button, Google +1 and Digg button below posts.The javascript is defered so to improve performance on your site.
 
 == Description ==
 
 Adds social media below your wordpress posts with defered Javascript for improved performance. 
 Includes Twitter, Facebook like, google plus and Digg. This plugin adds the javascript to the bottom of the page and combined in to a single script. 
 Styling included within the code so no extra CSS. The plugin is designed to be light and minimal and yet provide you with the same results as other social media plugins.
+
+Future releases will include an admin panel and the options to add or remove certain social media buttons.
+
 
 == Installation ==
 
@@ -27,7 +30,14 @@ Thanks for installing!
 
 == Frequently Asked Questions ==
 
-N.A
+= Does this plugin work on Thesis? =
+
+Yes this plugin has been tested on Thesis as I use thesis myself.
+
+= Does this plugin work on versions prior to 3.0 =
+
+I have not tested on version below 3.0 as you should be updating wordpress periodically for security reasons and to gain the extra functionality that comes with updates.
+
 
 == Screenshots ==
 
