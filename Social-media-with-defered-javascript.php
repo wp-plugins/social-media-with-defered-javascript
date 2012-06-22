@@ -104,7 +104,7 @@ This Plugin is design to add social media buttons below your wordpress posts and
 /* Adds the social media icons to the posts */
 function social_media($content) {
 	if (is_single()) {
-		$content .= '
+		$content .= '	
     <div class="social-post" style="float: left; padding: 10px 0px; width:100%;">
     <div class="counter-twitter" style="float: left; padding-left: 10px;"><a href="http://twitter.com/share" class="twitter-share-button" data-via="' .get_option('smwdjs_twitterid') . '" data-text="' . get_the_title($post->ID) . '" data-url="' . get_permalink($post->ID) . '" data-count="vertical">Tweet</a></div>
     <div class="counter-fb-like" style="float: left; padding-left: 10px;">
@@ -112,6 +112,7 @@ function social_media($content) {
     </div>
     <div class="counter-google-one" style="float: left;"><g:plusone size="tall" href="' . get_permalink($post->ID) . '"></g:plusone></div>
 <div class="digbutton" style="float: left; padding-left: 10px;"><div class="DiggThisButton DiggMedium"></div></div>
+</div>
 ';
 	}
 	return $content;
