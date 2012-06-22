@@ -15,7 +15,6 @@ Adds social media below your wordpress posts with defered Javascript for improve
 Includes Twitter, Facebook like, google plus and Digg. This plugin adds the javascript to the bottom of the page and combined in to a single script. 
 Styling included within the code so no extra CSS. The plugin is designed to be light and minimal and yet provide you with the same results as other social media plugins.
 
-Future releases will include an admin panel and the options to add or remove certain social media buttons.
 
 
 == Installation ==
