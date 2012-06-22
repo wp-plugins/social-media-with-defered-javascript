@@ -52,10 +52,12 @@ N.A
 = 1.0.0.0 =
 * First release of the plugin
 
-= 1.0.0.0 =
+= 1.0.0.3 =
 
-*Added an admin page with some details of the plugin and author
-*Added the option to include you Twitter ID so when someone tweets your post it will display your Twitter ID 
+*Added an admin page with some details of the plugin and author.
+
+*Added the option to include you Twitter ID so when someone tweets your post it will display your Twitter ID.
+ 
 *Refined some of the code and validated 100%
 
 == Upgrade Notice ==
