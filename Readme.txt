@@ -3,7 +3,7 @@ Contributors: Horne3754sg
 Tags: post, posts, social media, network, share, facebook like, twitter, tweet, social, google, google +1, google plusone
 Requires at least: 3.0
 Tested up to: 3.4
-Stable tag: 3.4,
+Stable tag: 3.4.1,
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8K3Z6N6KXPJYU
 License: GPLv2 or later
 
@@ -49,8 +49,14 @@ N.A
 == Changelog ==
 
 
-= 1.0 =
+= 1.0.0.0 =
 * First release of the plugin
+
+= 1.0.0.0 =
+
+*Added an admin page with some details of the plugin and author
+*Added the option to include you Twitter ID so when someone tweets your post it will display your Twitter ID 
+*Refined some of the code and validated 100%
 
 == Upgrade Notice ==
 
